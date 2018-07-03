@@ -1,0 +1,28 @@
+---
+title: "Big Data Management with R - Arnau Muns Orenga"
+output: html_notebook
+---
+
+BIG DATA is any thing which is crash in excel
+
+HDFS es el framework
+
+hive is sql interface to hadoop
+
+hacer un fork en git significa que hacemos una copia de un repositorio, 
+
+despues hace falta hacer un clone hasta nuestro pc para copiar el repositorio en nuestro local
+
+para hacer commit (volver a subir las cosas creadas nuevas en el github)
+
+
+antes de hacer el commit hay que poner git config --global user.email "arnau.muns12@gmail.com"
+
+los pasos son: hacer fork, luego en la consola
+git clone https://github.com/ArnauMunsOrenga/github_exercise
+
+hacemos los cambios necesarios
+
+git add -A
+git merge -m "adds dir with my name"
+git push origin master
